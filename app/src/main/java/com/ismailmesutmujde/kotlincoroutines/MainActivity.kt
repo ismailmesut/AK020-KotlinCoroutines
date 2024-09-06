@@ -54,6 +54,7 @@ class MainActivity : AppCompatActivity() {
         println("global scope end")
         */
 
+        /*
         // CoroutineScope
         println("coroutine scope start")
         CoroutineScope(Dispatchers.Default).launch {
@@ -61,5 +62,9 @@ class MainActivity : AppCompatActivity() {
             println("coroutine scope")
         }
         println("coroutine scope end")
+
+         */
+
+       
     }
 }
